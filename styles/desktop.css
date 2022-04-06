@@ -1,0 +1,8 @@
+/* THIS STYLES AFFECT TO BIG DEVICES MIN:800PX */
+
+.models img:nth-child(1) {
+  left: -3rem;
+}
+.models img:nth-child(2) {
+  right: -5rem;
+}

@@ -1,0 +1,31 @@
+/* THIS STYLES AFFECT TO MEDIUM DEVICES MAX:800PX */
+
+.call {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 30;
+}
+
+.models {
+  height: 25rem;
+}
+
+.models img:nth-child(1) {
+  position: absolute;
+  left: -8rem;
+}
+.models img:nth-child(2) {
+  position: absolute;
+  right: -8rem;
+  display: block;
+  max-width: 28rem;
+}
+
+.copy p {
+  max-width: 40rem;
+}
+
+main {
+  flex-direction: row;
+}
